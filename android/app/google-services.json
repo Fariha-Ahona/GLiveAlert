@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "180777525526",
+    "project_id": "glivealert",
+    "storage_bucket": "glivealert.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180777525526:android:4268241f3d1cfdd6fe3037",
+        "android_client_info": {
+          "package_name": "com.example.glivealert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMRivqbtDAHliObtfTQpv9o17Rjg_QADM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
